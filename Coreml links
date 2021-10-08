@@ -1,6 +1,10 @@
-For coreml:
 https://developer.apple.com/machine-learning/models/
 
 https://www.neuralception.com/object-detection-app/
 
 https://github.com/Ma-Dan/YOLOv3-CoreML
+
+
+
+NON-MAX SUPPRESSION IN SWIFT:
+https://apple.github.io/turicreate/docs/userguide/object_detection/export-coreml.html
